@@ -1,4 +1,4 @@
-## Hi there! I'm Harel
+![Harel Asaraf Github](https://i.ibb.co/Hz04WFd/githubheader.png?raw=true)
 
 With a rich background spanning 10 years in therapies, client support, and team management, I now seek to make a dynamic shift into the realm of front-end web development. While I may be considered a junior developer in terms of experience, my boundless passion and unwavering determination to learn fuel my journey towards excellence. My true calling lies in crafting responsive and visually captivating websites using modern JavaScript, and I constantly strive to elevate my skills and knowledge in this domain.
 
