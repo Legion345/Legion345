@@ -28,7 +28,7 @@ As a quick learner and a team-oriented individual, I am confident that my distin
 ## Let's Connect
 
 - <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="40" width="40"/> [LinkedIn](https://www.linkedin.com/in/harelasaraf/)
-- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="developer portfolio" height="40" width="40"/> [Wordpress](https://harelasaraf.com)
+- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="developer portfolio" height="40" width="40"/> [Portfolio/Blog](https://harelasaraf.com/)
 
 <br/>
 <br/>
