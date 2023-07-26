@@ -8,7 +8,6 @@ As a quick learner and a team-oriented individual, I am confident that my distin
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="400" height="320">
 
-
 ## Language & Tools
 
 <p>
@@ -36,8 +35,6 @@ As a quick learner and a team-oriented individual, I am confident that my distin
     <a href="mailto:harelasaraf@gmail.com">
     <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
-    
-
 
 <br/>
 <br/>
@@ -46,8 +43,7 @@ As a quick learner and a team-oriented individual, I am confident that my distin
 
 ##
 <p>
-
+  
 ![Harel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=legion345&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=50#gh-dark-mode-only)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=legion345&theme=dark&hide_border=true)
-
 </p>
