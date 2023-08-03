@@ -45,5 +45,5 @@ As a quick learner and a team-oriented individual, I am confident that my distin
 <p>
   
 ![Harel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=legion345&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=50#gh-dark-mode-only)
-![GitHub Streak](https://streak-stats.demolab.com/?user=legion345&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legion345&hide_progress=true&theme=dark)
 </p>
