@@ -11,6 +11,7 @@ As a quick learner and a team-oriented individual, I am confident that my distin
 ## Language & Tools
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/java-original.svg" alt="c" width="30" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
