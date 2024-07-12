@@ -1,11 +1,9 @@
 ![GitHub Banner](https://github.com/Legion345/Legion345/assets/106558426/d3d20707-4d8d-4d63-91af-554721080b22)
 
 
-With a rich background spanning 10 years in therapies, client support, and team management, I now seek to make a dynamic shift into the realm of front-end web development. While I may be considered a junior developer in terms of experience, my boundless passion and unwavering determination to learn fuel my journey towards excellence. I enjoy crafting responsive and visually captivating websites using modern JavaScript, and I constantly strive to elevate my skills and knowledge in this domain.
+With a rich background spanning 10 years in therapies, client support, and team management, I now seek to make a dynamic shift into the realm of front-end and back-end development. While I may be considered a junior developer in terms of experience, my boundless passion and unwavering determination to learn fuel my journey towards excellence. I enjoy crafting responsive and visually captivating websites using HTML, CSS, and JavaScript or creating small projects mainly in Java. I constantly strive to elevate my skills and knowledge.
 
-In addition to my fascination with front-end web development, I also harbor a keen interest in exploring the fascinating features of Java programming. The versatility of this programming language excites me, and I am eager to broaden my horizons by delving into the world of backend development and software engineering.
-
-As a quick learner and a team-oriented individual, I am confident that my distinctive blend of expertise and experience will prove to be a valuable asset to any development team. Embracing challenges with enthusiasm, I am committed to contributing my best to projects that make a real difference. My ultimate aspiration is to secure a position within a forward-thinking company, one that encourages growth and fosters a nurturing environment for honing my skills as a front-end developer and exploring new realms in Java programming, while actively engaging in real-world projects.
+As a quick learner and a team-oriented individual, I am confident that my distinctive blend of expertise and experience will prove to be a valuable asset to any development team. Embracing challenges with enthusiasm, I am committed to contributing my best to projects that make a real difference. My ultimate aspiration is to secure a position within a forward-thinking company, one that encourages growth and fosters a nurturing environment for honing my skills as a front-end developer, while actively engaging in real-world projects.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="400" height="320">
 
