@@ -32,10 +32,11 @@ As a quick learner and a team-oriented individual, I am confident that my distin
     </a>
     <a href="mailto:harelasaraf@gmail.com">
     <img src="https://img.shields.io/badge/SEND%20MAIL-0272c6?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
+      <a href="https://www.buymeacoffee.com/harelasaraf"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=harelasaraf&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
     </a>
 
 <br/>
-<a href="https://www.buymeacoffee.com/harelasaraf"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=harelasaraf&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <br/>
 <br/>
 <br/>
