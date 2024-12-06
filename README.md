@@ -35,6 +35,7 @@ As a quick learner and a team-oriented individual, I am confident that my distin
     </a>
 
 <br/>
+<a href="https://www.buymeacoffee.com/harelasaraf"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=harelasaraf&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 <br/>
 <br/>
 <br/>
