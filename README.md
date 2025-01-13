@@ -40,5 +40,4 @@ As a quick learner and a collaborative team player, I believe my unique backgrou
   
 ![Harel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=legion345&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=50#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legion345&hide_progress=true&theme=dark)
-<a href="https://www.buymeacoffee.com/harelasaraf"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=harelasaraf&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-</p>
+
