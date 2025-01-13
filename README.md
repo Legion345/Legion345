@@ -4,8 +4,6 @@ While I may be considered a junior developer in terms of experience, my enthusia
 
 As a quick learner and a collaborative team player, I believe my unique background and diverse experiences can bring valuable perspectives to any development team. I embrace challenges with determination and am committed to contributing to projects that make a meaningful impact.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="400" height="320">
-
 ## Language & Tools
 
 <p>
