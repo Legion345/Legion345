@@ -1,9 +1,8 @@
-![GitHub Banner](https://github.com/Legion345/Legion345/assets/106558426/d3d20707-4d8d-4d63-91af-554721080b22)
+Hello! I am a passionate developer transitioning from a decade of experience in therapies, client support, and team management to the dynamic field of Software Developer.
 
+While I may be considered a junior developer in terms of experience, my enthusiasm for learning and growth drives me to excel. I am constantly seeking opportunities to expand my skill set and deepen my knowledge.
 
-With a rich background spanning 10 years in therapies, client support, and team management, I now seek to make a dynamic shift into the realm of front-end and back-end development. While I may be considered a junior developer in terms of experience, my boundless passion and unwavering determination to learn fuel my journey towards excellence. I enjoy crafting responsive and visually captivating websites using HTML, CSS, and JavaScript or creating small projects mainly in Java. I constantly strive to elevate my skills and knowledge.
-
-As a quick learner and a team-oriented individual, I am confident that my distinctive blend of expertise and experience will prove to be a valuable asset to any development team. Embracing challenges with enthusiasm, I am committed to contributing my best to projects that make a real difference. My ultimate aspiration is to secure a position within a forward-thinking company, one that encourages growth and fosters a nurturing environment for honing my skills as a front-end developer, while actively engaging in real-world projects.
+As a quick learner and a collaborative team player, I believe my unique background and diverse experiences can bring valuable perspectives to any development team. I embrace challenges with determination and am committed to contributing to projects that make a meaningful impact.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="400" height="320">
 
