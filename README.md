@@ -34,8 +34,6 @@ As a proactive problem solver, I embrace challenges as opportunities for growth.
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 ##
 <p>
