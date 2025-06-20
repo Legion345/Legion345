@@ -44,5 +44,31 @@ I am thrilled to contribute to **innovative software solutions** that drive posi
 <p>
   
 ![Harel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=legion345&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=50#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legion345&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legion345&hide_progress=true&theme=dark) # Compact Stats Card
+![Stats](https://github-readme-stats.vercel.app/api?username=[legion345]&hide=issues&count_private=true&show_icons=true&line_height=24)
+
+# Detailed Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=[legion345]&theme=dark)
+
+# Pie Chart Language Breakdown
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[legion345]&layout=pie)
+
+# Stats + Top Languages Combo
+[![Your Stats](https://github-readme-stats.vercel.app/api?username=[legion345]&show_icons=true&theme=dark&hide_border=true)](https://github.com/[legion345])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[legion345]&layout=compact&theme=dark&hide_border=true)](https://github.com/[legion345])
+
+# Anime-themed Stats (WakaTime alternative)
+![Anime Stats](https://github-readme-stats.vercel.app/api?username=[legion345]&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&line_height=20&custom_title=Weeb%20Development%20Stats&role=ORG,SENIOR,COLLABORATOR)
+
+# GitHub Profile Trophy
+![Trophy](https://github-profile-trophy.vercel.app/?username=[legion345]&theme=onedark&row=1&column=7)
+
+# Compact Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=[legion345]&theme=react-dark)
+
+# WakaTime Coding Stats
+<!-- Requires WakaTime API setup -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=[legion345]&layout=compact)
+
+
 
