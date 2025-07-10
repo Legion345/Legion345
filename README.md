@@ -2,13 +2,13 @@
 
 ## Professional Overview
 
-I am a dedicated developer transitioning from over a decade of experience in therapies, client support, and team management to the dynamic field of software development. 
+I have always felt a draw towards programming, but it wasn't until later in life that I realized my potential in coding. My initial interest began in college, but I chose to pursue a career in developmental therapy, where I worked closely with children with autism. This experience taught me invaluable lessons about empathy, patience, and adaptability.
 
-With a strong foundation in coding and a passion for technology, I am committed to mastering the skills necessary to excel in this ever-evolving industry. My unique background provides me with a deep understanding of user needs, enabling me to approach challenges with empathy and creativity. I thrive in collaborative environments, utilizing my communication skills to effectively bridge the gap between technical and non-technical stakeholders.
+While I gained a great deal from my time in therapy, I found that it didn't ignite the motivation I was seeking. It was during this period that I recognized the exciting possibilities within the tech world, leading me to make a career change into software development.
 
-As a proactive problem solver, I view challenges as opportunities for growth. My experience in client support has honed my organizational skills and attention to detail, allowing me to deliver high-quality work that aligns with project goals and user expectations.
+What excites me most about this field is the opportunity to be creative and take on leadership roles. I believe my background in therapy has equipped me with strong problem-solving skills, allowing me to approach challenges with a unique perspective. Additionally, my experience has fostered a deep sense of empathy, which helps me understand user needs and collaborate effectively with my team.
 
-I am excited to contribute to innovative software solutions that drive positive change. Let's connect and explore the possibilities together!
+As I continue my journey in software development, I am eager to create impactful projects that reflect my passion for technology and my commitment to making a difference.
 
 ## Language & Tools
 
