@@ -45,6 +45,7 @@ As I continue my journey in software development, I am eager to create impactful
   
 ![Harel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=legion345&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=50#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legion345&hide_progress=true&theme=dark)
+![Legion345's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Legion345&theme=vue-dark&hide_border=true)
 
 
 
