@@ -40,7 +40,6 @@ As I continue my journey in software development, I am eager to create impactful
 <br/>
 <br/>
 </p>
-##
 <p>
 
 ![Harel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=legion345&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=50#gh-dark-mode-only)
