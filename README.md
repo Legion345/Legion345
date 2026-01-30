@@ -74,12 +74,10 @@ I'm a software developer with a unique background in developmental therapy, brin
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Legion345&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true" alt="GitHub Stats"/>
+<p align="center">[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Legion345?cardType=level&theme=dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legion345&hide_progress=true&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
+<p align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Legion345&theme=dark&show_icons=true&hide_border=true&count_private=true)
 </p>
 
 ---
