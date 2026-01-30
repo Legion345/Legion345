@@ -75,15 +75,17 @@ I'm a software developer with a unique background in developmental therapy, brin
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=legion345&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Legion345&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=legion345&hide_progress=true&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legion345&hide_progress=true&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
 
 ## My Journey
+
+:qa
 
 I transitioned into software development from a career in developmental therapy, where I worked with children with autism. This unique background has given me strong problem-solving abilities, patience, and a deep understanding of user needs and accessibility. I bring a human-centered approach to development, combining technical skills with empathy to create solutions that truly serve users.
