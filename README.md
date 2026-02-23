@@ -59,7 +59,7 @@ I'm a software developer with a unique background in developmental therapy, brin
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/harelasaraf">
+  <a href="https://www.linkedin.com/in/harelasaraf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.harelasaraf.com/">
