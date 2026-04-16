@@ -1,14 +1,14 @@
 # Hi, I'm Harel Asaraf
 
-## Software Developer | Problem Solver | Career Transitioner
+## Software Engineer | Full-Stack Developer | Problem Solver
 
-I'm a software developer with a unique background in developmental therapy, bringing strong problem-solving skills, empathy for user needs, and a passion for building impactful applications. My diverse experience allows me to approach technical challenges with creativity and a user-centered mindset.
+I'm a software engineer who builds clean, well-crafted applications across the full stack. Before writing code, I spent years in developmental therapy — working closely with children with autism and their families. That work shaped how I listen, how I solve problems, and how I think about the people on the other side of every interface I build. That perspective doesn't leave you when you sit down to write software.
 
 ### What I Bring to the Table
 - **Technical Excellence**: Proficient in multiple programming languages and modern development tools
-- **User-Focused Development**: Background in therapy enables deep understanding of user needs and accessibility
-- **Collaborative Team Player**: Strong communication skills from years of working with diverse teams and families
-- **Adaptable Learner**: Successfully transitioned careers, demonstrating ability to master new technologies quickly
+- **Empathy-Driven Development**: Years working with children with autism gave me a practiced understanding of user needs, accessibility, and why it matters who you're building for
+- **Collaborative Team Player**: Communicating across differences — with families, teams, and disciplines — is something I've done my whole career
+- **Problem Solver**: Trained to stay calm, observe carefully, and find what actually works — not just what looks like it should
 
 ---
 
@@ -70,8 +70,3 @@ I'm a software developer with a unique background in developmental therapy, brin
   </a>
 </p>
 
----
-
-## My Journey
-
-I transitioned into software development from a career in developmental therapy, where I worked with children with autism. This unique background has given me strong problem-solving abilities, patience, and a deep understanding of user needs and accessibility. I bring a human-centered approach to development, combining technical skills with empathy to create solutions that truly serve users.
